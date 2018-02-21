@@ -4,4 +4,4 @@
 
 
 
-![alt text](https://github.com/anantpanthri/CountDown/blob/master/img2.png)
+![alt text](https://github.com/anantpanthri/CountDown/blob/master/img2.PNG)
